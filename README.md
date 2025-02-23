@@ -1,6 +1,10 @@
-# ProDev Backend Engineering Program
+# alx-project-nexus
+## Project Objective
+This repository serves as a documentation hub for my major learnings from the ALX ProDev Frontend Engineering program. It showcases my understanding of frontend engineering concepts, tools, best practices, and project implementations.
 
-## Overview
+## ProDev Backend Engineering Program
+
+### Overview
 
 The ProDev Backend Engineering program is designed to build expertise in full-stack development, emphasizing real-world projects, collaboration, and hands-on learning. The program bridges frontend and backend development, empowering learners to create complete, production-ready applications.
 
